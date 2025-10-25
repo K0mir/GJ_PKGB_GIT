@@ -134,10 +134,10 @@ TextureImporter:
         serializedVersion: 2
         x: 50
         y: 44
-        width: 116
+        width: 129
         height: 74
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -150,33 +150,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: german-shephard-bite-003_1
-      rect:
-        serializedVersion: 2
-        x: 158
-        y: 86
-        width: 20
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8d54b7d8f4439dfe0800000000000000
-      internalID: -1163841512417835560
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 0cf0ee892177d4549ba25e0aa5678ceb
     internalID: 0
     vertices: []
     indices: 
