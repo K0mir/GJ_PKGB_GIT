@@ -11,6 +11,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/TransicionNivel1.unity
     guid: 454aa57f28b3dea4582af27708181de2
+  - enabled: 1
+    path: Assets/Scenes/Nivel1Ciudad.unity
+    guid: 66e0c090c194b2f4b97fcc5e86689ea2
+  - enabled: 1
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: 6933b42313801734cb1c71cd4bdea090
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
