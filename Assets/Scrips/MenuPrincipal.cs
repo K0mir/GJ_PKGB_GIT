@@ -6,7 +6,7 @@ public class MenuPrincipal : MonoBehaviour
     // Cargar la escena del juego
     public void PlayGame()
     {
-        SceneManager.LoadScene("Nivel1Casa"); // <-- Cambia "Nivel1" por el nombre real de tu escena del juego
+        SceneManager.LoadScene("NivelCasa"); // <-- Cambia "Nivel1" por el nombre real de tu escena del juego
     }
 
     // Salir del juego

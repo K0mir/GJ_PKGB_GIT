@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 public class PlayerMove : MonoBehaviour
 {
-    [Header("Movimiento")]
+ [Header("Movimiento")]
     public float speed = 5f;
     public float jumpForce = 7f;
 
@@ -15,15 +15,23 @@ public class PlayerMove : MonoBehaviour
     [Header("Animación")]
     private Animator animator;
 
+    // ✅ Escala original del personaje
+    private Vector3 originalScale;
+
     void Awake()
     {
         playerInput = GetComponent<PlayerInput>();
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+
+        // Guardar la escala original al iniciar
+        originalScale = transform.localScale;
+        
     }
 
     void Update()
     {
+        
         // Leer input de movimiento
         moveInput = playerInput.actions["Move"].ReadValue<Vector2>();
 
@@ -31,11 +39,11 @@ public class PlayerMove : MonoBehaviour
         bool isRunning = Mathf.Abs(moveInput.x) > 0.1f;
         animator.SetBool("running", isRunning);
 
-        // Voltear sprite según dirección
+        // ✅ Voltear sprite sin modificar la escala base
         if (moveInput.x > 0.1f)
-            transform.localScale = new Vector3(2, 2, 1);
+            transform.localScale = new Vector3(Mathf.Abs(originalScale.x), originalScale.y, originalScale.z);
         else if (moveInput.x < -0.1f)
-            transform.localScale = new Vector3(-2, 2, 1);
+            transform.localScale = new Vector3(-Mathf.Abs(originalScale.x), originalScale.y, originalScale.z);
 
         // Salto
         if (playerInput.actions["Jump"].triggered && isGrounded)
@@ -45,20 +53,18 @@ public class PlayerMove : MonoBehaviour
             // animator.SetBool("jumping", true);
         }
 
-        // Animaciones especiales
-        if (playerInput.actions["Oler"]?.triggered ?? false)
-        {
-            animator.SetTrigger("smell");
-            Debug.Log("Oler activado");
-        }
+        // Acciones adicionales (comentadas)
         // if (playerInput.actions["Oler"]?.triggered ?? false)
+        // {
         //     animator.SetTrigger("smell");
+        //     Debug.Log("Oler activado");
+        // }
 
-        if (playerInput.actions["Morder"]?.triggered ?? false)
-            animator.SetTrigger("bite");
+        // if (playerInput.actions["Morder"]?.triggered ?? false)
+        //     animator.SetTrigger("bite");
 
-        if (playerInput.actions["Ladrar"]?.triggered ?? false)
-            animator.SetTrigger("bark");
+        // if (playerInput.actions["Ladrar"]?.triggered ?? false)
+        //     animator.SetTrigger("bark");
     }
 
     void FixedUpdate()
@@ -75,5 +81,5 @@ public class PlayerMove : MonoBehaviour
             isGrounded = true;
             // animator.SetBool("jumping", false);
         }
-    }
+    } 
 }
