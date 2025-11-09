@@ -1644,7 +1644,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: 7520887236294261299, guid: f65b0c62302667b46a0f9f4d8888ddab, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -4720,7 +4720,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 01cb868c40d416d43a938d64b882e647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nombreSiguienteEscena: Nivel1Bosque
+  nombreSiguienteEscena: Nivel1BosqueIntro
 --- !u!61 &1768553786
 BoxCollider2D:
   m_ObjectHideFlags: 0
