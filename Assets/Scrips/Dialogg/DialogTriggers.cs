@@ -5,24 +5,25 @@ using TMPro;
 public class DialogTriggers : MonoBehaviour
 {
 public Dialog dialogue;
-    public string interactionText = "Habla con Franck"; // Texto personalizable
-    public GameObject interactionIndicator; // Referencia al objeto del indicador
+    public string interactionText = "Habla con Franck";
+    public GameObject interactionIndicator;
+    
+    [Header("Configuración de Activación")]
+    public bool autoActivate = true; // ← NUEVA VARIABLE: Activar al pasar
+    public float activationDelay = 0.2f; // ← Pequeño delay para evitar activaciones accidentales
     
     private bool isPlayerInRange = false;
     private DialogManager dialogueManager;
     private TextMeshProUGUI indicatorText;
-
     private bool canSkip = true;
     private float skipCooldown = 0.15f;
-    
-    // NUEVA VARIABLE: Controla si el diálogo ya fue completado
     private bool dialogueCompleted = false;
+    private bool hasActivated = false; // ← Para controlar que no se active múltiples veces
 
     private void Start()
     {
         dialogueManager = FindFirstObjectByType<DialogManager>();
         
-        // Configurar el indicador si existe
         if (interactionIndicator != null)
         {
             indicatorText = interactionIndicator.GetComponentInChildren<TextMeshProUGUI>();
@@ -36,10 +37,18 @@ public Dialog dialogue;
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Player") && !dialogueCompleted) // SOLO si no se completó
+        if (other.CompareTag("Player") && !dialogueCompleted)
         {
             isPlayerInRange = true;
-            ShowInteractionIndicator();
+            
+            if (autoActivate && !hasActivated) // ← ACTIVACIÓN AUTOMÁTICA
+            {
+                Invoke(nameof(AutoActivateDialogue), activationDelay);
+            }
+            else // ← Mostrar indicador solo si no es auto-activación
+            {
+                ShowInteractionIndicator();
+            }
         }
     }
 
@@ -49,15 +58,33 @@ public Dialog dialogue;
         {
             isPlayerInRange = false;
             HideInteractionIndicator();
+            
+            // Cancelar activación automática si el jugador sale rápido
+            if (autoActivate && !hasActivated)
+            {
+                CancelInvoke(nameof(AutoActivateDialogue));
+            }
+        }
+    }
+
+    // ← NUEVO MÉTODO: Activación automática
+    private void AutoActivateDialogue()
+    {
+        if (isPlayerInRange && !dialogueCompleted && !hasActivated)
+        {
+            hasActivated = true;
+            dialogueManager.StartDialogue(dialogue, this);
+            HideInteractionIndicator(); // Ocultar indicador si estaba visible
         }
     }
 
     public void OnInteract(InputAction.CallbackContext context)
     {
-        if (context.started && isPlayerInRange && !dialogueCompleted) // SOLO si no se completó
+        // Solo funciona si NO es auto-activación
+        if (context.started && isPlayerInRange && !dialogueCompleted && !autoActivate)
         {
-            HideInteractionIndicator(); // Ocultar al interactuar
-            dialogueManager.StartDialogue(dialogue, this); // Asegúrate de pasar 'this'
+            HideInteractionIndicator();
+            dialogueManager.StartDialogue(dialogue, this);
         }
     }
 
@@ -73,7 +100,7 @@ public Dialog dialogue;
 
     private void ShowInteractionIndicator()
     {
-        if (interactionIndicator != null && !dialogueCompleted) // SOLO si no se completó
+        if (interactionIndicator != null && !dialogueCompleted && !autoActivate)
         {
             interactionIndicator.SetActive(true);
         }
@@ -92,15 +119,19 @@ public Dialog dialogue;
         canSkip = true;
     }
 
-    // Método para que el DialogManager pueda ocultar el indicador cuando termine el diálogo
     public void OnDialogueEnd()
     {
-        // MARCA EL DIÁLOGO COMO COMPLETADO
         dialogueCompleted = true;
-        
-        // Asegurarse de ocultar el indicador
+        hasActivated = false; // ← Resetear para posible reutilización
         HideInteractionIndicator();
-        
-        Debug.Log("Diálogo completado - El indicador no aparecerá más");
+        Debug.Log("Diálogo completado");
+    }
+
+    // ← NUEVO MÉTODO: Para reutilizar el trigger
+    public void ResetTrigger()
+    {
+        dialogueCompleted = false;
+        hasActivated = false;
+        CancelInvoke(nameof(AutoActivateDialogue));
     }
 }
