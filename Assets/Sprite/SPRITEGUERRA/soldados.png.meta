@@ -1,0 +1,446 @@
+fileFormatVersion: 2
+guid: 9f293a159db78534a9c80bc7bceb3295
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4894046621198874596
+    second: soldados_0
+  - first:
+      213: 388143283108768712
+    second: soldados_1
+  - first:
+      213: 372412596720790234
+    second: soldados_2
+  - first:
+      213: 793975669270451171
+    second: soldados_3
+  - first:
+      213: -35321551866686413
+    second: soldados_4
+  - first:
+      213: -922806135245271580
+    second: soldados_5
+  - first:
+      213: -7179809942878573270
+    second: soldados_6
+  - first:
+      213: 314437204452197822
+    second: soldados_7
+  - first:
+      213: 4257012991101336072
+    second: soldados_8
+  - first:
+      213: 6902505625649614424
+    second: soldados_9
+  - first:
+      213: -1955704985816588324
+    second: soldados_10
+  - first:
+      213: 6278297549051108279
+    second: soldados_11
+  - first:
+      213: 9100744859541095472
+    second: soldados_12
+  - first:
+      213: 5102195259625266367
+    second: soldados_13
+  - first:
+      213: -1558978614221100339
+    second: soldados_14
+  - first:
+      213: -7371430406598080859
+    second: soldados_15
+  - first:
+      213: 8022830399106516140
+    second: soldados_16
+  - first:
+      213: 2139605339586226026
+    second: soldados_17
+  - first:
+      213: -7859324956287365387
+    second: soldados_18
+  - first:
+      213: 580799942855936496
+    second: soldados_19
+  - first:
+      213: -3539910538016962669
+    second: soldados_20
+  - first:
+      213: 6708549968247865613
+    second: soldados_21
+  - first:
+      213: -5036292854057161319
+    second: soldados_22
+  - first:
+      213: -3840365188068845213
+    second: soldados_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: soldados_5
+      rect:
+        serializedVersion: 2
+        x: 7553
+        y: 20
+        width: 242
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed872095b88133f0800000000000000
+      internalID: -922806135245271580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldados_9
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 16
+        width: 265
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e0bf4ab40aacf50800000000000000
+      internalID: 6902505625649614424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldados_12
+      rect:
+        serializedVersion: 2
+        x: 4482
+        y: 28
+        width: 233
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034c8606b375c4e70800000000000000
+      internalID: 9100744859541095472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldados_13
+      rect:
+        serializedVersion: 2
+        x: 5528
+        y: 24
+        width: 230
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc55a85e83aec640800000000000000
+      internalID: 5102195259625266367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldados_14
+      rect:
+        serializedVersion: 2
+        x: 6524
+        y: 17
+        width: 228
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcaabeec5356d5ae0800000000000000
+      internalID: -1558978614221100339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldados_15
+      rect:
+        serializedVersion: 2
+        x: 9601
+        y: 26
+        width: 250
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a64538c91b63b990800000000000000
+      internalID: -7371430406598080859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldados_19
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 10
+        width: 257
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9ce77887a6f0800800000000000000
+      internalID: 580799942855936496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldados_21
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 26
+        width: 265
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d014f5717ae891d50800000000000000
+      internalID: 6708549968247865613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldados_22
+      rect:
+        serializedVersion: 2
+        x: 3449
+        y: 25
+        width: 267
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99da519255e7b1ab0800000000000000
+      internalID: -5036292854057161319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldados_23
+      rect:
+        serializedVersion: 2
+        x: 8576
+        y: 18
+        width: 229
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3695165653844bac0800000000000000
+      internalID: -3840365188068845213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bab1d4d4d664145468dad95fbf56f5f1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      soldados_0: 4894046621198874596
+      soldados_1: 388143283108768712
+      soldados_10: -1955704985816588324
+      soldados_11: 6278297549051108279
+      soldados_12: 9100744859541095472
+      soldados_13: 5102195259625266367
+      soldados_14: -1558978614221100339
+      soldados_15: -7371430406598080859
+      soldados_16: 8022830399106516140
+      soldados_17: 2139605339586226026
+      soldados_18: -7859324956287365387
+      soldados_19: 580799942855936496
+      soldados_2: 372412596720790234
+      soldados_20: -3539910538016962669
+      soldados_21: 6708549968247865613
+      soldados_22: -5036292854057161319
+      soldados_23: -3840365188068845213
+      soldados_3: 793975669270451171
+      soldados_4: -35321551866686413
+      soldados_5: -922806135245271580
+      soldados_6: -7179809942878573270
+      soldados_7: 314437204452197822
+      soldados_8: 4257012991101336072
+      soldados_9: 6902505625649614424
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
