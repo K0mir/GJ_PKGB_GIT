@@ -20,7 +20,7 @@ public class CamaaraFlo : MonoBehaviour
         Vector3 desiredPosition = target.position + offset;
         Vector3 smoothedPosition = Vector3.Lerp(transform.position, desiredPosition, smoothSpeed);
 
-        // Si los límites están activados
+        // Aplicar límites si están activados
         if (useLimits)
         {
             smoothedPosition.x = Mathf.Clamp(smoothedPosition.x, minX, maxX);

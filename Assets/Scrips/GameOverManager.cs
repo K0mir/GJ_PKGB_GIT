@@ -1,29 +1,64 @@
 using UnityEngine;
-using UnityEngine.SceneManagement;
+
 public class GameOverCI : MonoBehaviour
 {
-   public GameObject gameOverCanvas; // Asigna el Canvas desde el Inspector
-
+    public GameObject gameOverCanvas; // Asigna el Canvas desde el Inspector
     private bool isGameOver = false;
+
+    void Update()
+    {
+        if (isGameOver && Input.GetKeyDown(KeyCode.R))
+        {
+            RespawnPlayer();
+        }
+    }
 
     public void GameOver()
     {
-        if (isGameOver) return; // Evita repetir la animación
+        if (isGameOver) return;
         isGameOver = true;
 
-        // Mostrar la pantalla Game Over
         gameOverCanvas.SetActive(true);
-
-        // Detener el tiempo del juego
         Time.timeScale = 0f;
     }
 
-    public void RestartLevel()
+    void RespawnPlayer()
     {
-        // Volver al estado normal
+        // Ocultar Game Over y volver al tiempo normal
+        gameOverCanvas.SetActive(false);
         Time.timeScale = 1f;
+        isGameOver = false;
 
-        // Reiniciar la escena actual
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        // Resetear todas las minas antes de reaparecer
+        ResetAllMines();
+
+        // Reaparecer en el último checkpoint
+        if (PlayerCheckpoint.Instance != null)
+        {
+            PlayerCheckpoint.Instance.Respawn();
+        }
+        else
+        {
+            // Fallback: recargar la escena si no hay sistema de checkpoints
+            UnityEngine.SceneManagement.SceneManager.LoadScene(UnityEngine.SceneManagement.SceneManager.GetActiveScene().buildIndex);
+        }
+    }
+
+    void ResetAllMines()
+    {
+        // Encontrar y resetear todas las minas en la escena (versión actualizada)
+        Mine[] allMines = FindObjectsByType<Mine>(FindObjectsSortMode.None);
+        foreach (Mine mine in allMines)
+        {
+            mine.ResetMine();
+        }
+
+        Debug.Log($"Minas reseteadas: {allMines.Length}");
+    }
+
+    // Método público para reiniciar desde otros scripts
+    public void RestartGame()
+    {
+        RespawnPlayer();
     }
 }
