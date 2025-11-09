@@ -1,0 +1,747 @@
+fileFormatVersion: 2
+guid: f31b85abdea5c9a48bd41cd28a67bb7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8156405777117198345
+    second: SPARKY_0
+  - first:
+      213: 1923785828103039827
+    second: SPARKY_1
+  - first:
+      213: 8365817998347674881
+    second: SPARKY_2
+  - first:
+      213: -5556646158613674893
+    second: SPARKY_3
+  - first:
+      213: -8289592774053262617
+    second: SPARKY_4
+  - first:
+      213: 932476460484407238
+    second: SPARKY_5
+  - first:
+      213: -6085629752879536661
+    second: SPARKY_6
+  - first:
+      213: -2521579922288691397
+    second: SPARKY_7
+  - first:
+      213: 3355341085448838443
+    second: SPARKY_8
+  - first:
+      213: 501277879503148587
+    second: SPARKY_9
+  - first:
+      213: 6223266149313038392
+    second: SPARKY_10
+  - first:
+      213: -7354674690663233060
+    second: SPARKY_11
+  - first:
+      213: 3783859807656738185
+    second: SPARKY_12
+  - first:
+      213: 2956421236502480727
+    second: SPARKY_13
+  - first:
+      213: -3743046282082975138
+    second: SPARKY_14
+  - first:
+      213: 2681558765521059903
+    second: SPARKY_15
+  - first:
+      213: 2026661043802061062
+    second: SPARKY_16
+  - first:
+      213: 4942466379454523998
+    second: SPARKY_17
+  - first:
+      213: -6991094064186738104
+    second: SPARKY_18
+  - first:
+      213: 7522670406832064970
+    second: SPARKY_19
+  - first:
+      213: -8247193066112337243
+    second: SPARKY_20
+  - first:
+      213: -5067447361678748269
+    second: SPARKY_21
+  - first:
+      213: -2266758420307492956
+    second: SPARKY_22
+  - first:
+      213: 8641300127656525798
+    second: SPARKY_23
+  - first:
+      213: 2365097608052752635
+    second: SPARKY_24
+  - first:
+      213: 6406419457339093302
+    second: SPARKY_25
+  - first:
+      213: -4879862389596438487
+    second: SPARKY_26
+  - first:
+      213: 6480869134821730684
+    second: SPARKY_27
+  - first:
+      213: -7713026284531627889
+    second: SPARKY_28
+  - first:
+      213: -5101903844483323004
+    second: SPARKY_29
+  - first:
+      213: -57949336920681740
+    second: SPARKY_30
+  - first:
+      213: -8872733723203000325
+    second: SPARKY_31
+  - first:
+      213: -1143757820245188126
+    second: SPARKY_32
+  - first:
+      213: -5571472003156384626
+    second: SPARKY_33
+  - first:
+      213: -4419196830121900418
+    second: SPARKY_34
+  - first:
+      213: 6739843773201723260
+    second: SPARKY_35
+  - first:
+      213: -1144682101016716315
+    second: SPARKY_36
+  - first:
+      213: 4386821625531645312
+    second: SPARKY_37
+  - first:
+      213: 8938145272769934029
+    second: SPARKY_38
+  - first:
+      213: 2145854115555722838
+    second: SPARKY_39
+  - first:
+      213: 7878231466103265457
+    second: SPARKY_40
+  - first:
+      213: 1768283034047534251
+    second: SPARKY_41
+  - first:
+      213: -4669692086091032421
+    second: SPARKY_42
+  - first:
+      213: -7231332911019246864
+    second: SPARKY_43
+  - first:
+      213: -1409541035562025487
+    second: SPARKY_44
+  - first:
+      213: 6850962450835272546
+    second: SPARKY_45
+  - first:
+      213: -3683658505909714588
+    second: SPARKY_46
+  - first:
+      213: 2039300667265332975
+    second: SPARKY_47
+  - first:
+      213: 891011632085258662
+    second: SPARKY_48
+  - first:
+      213: 145520614432812926
+    second: SPARKY_49
+  - first:
+      213: 6454961850406333999
+    second: SPARKY_50
+  - first:
+      213: -4358485960685938361
+    second: SPARKY_51
+  - first:
+      213: 1080411399542461343
+    second: SPARKY_52
+  - first:
+      213: 11243931777629313
+    second: SPARKY_53
+  - first:
+      213: 5310501352371504348
+    second: SPARKY_54
+  - first:
+      213: -5984204269590563051
+    second: SPARKY_55
+  - first:
+      213: -2735138099991285762
+    second: SPARKY_56
+  - first:
+      213: -5042053992997117931
+    second: SPARKY_57
+  - first:
+      213: -1846132027966352179
+    second: SPARKY_58
+  - first:
+      213: -8535636778706547575
+    second: SPARKY_59
+  - first:
+      213: -1751885159913325550
+    second: SPARKY_60
+  - first:
+      213: 3940581854754076043
+    second: SPARKY_61
+  - first:
+      213: 3147778681553872372
+    second: SPARKY_62
+  - first:
+      213: 1652420842361862166
+    second: SPARKY_63
+  - first:
+      213: 4109011493716969113
+    second: SPARKY_64
+  - first:
+      213: 3878626848117549844
+    second: SPARKY_65
+  - first:
+      213: 707814152119406214
+    second: SPARKY_66
+  - first:
+      213: -3360396613225891936
+    second: SPARKY_67
+  - first:
+      213: 4742500272521550857
+    second: SPARKY_68
+  - first:
+      213: 1411543690889312697
+    second: SPARKY_69
+  - first:
+      213: 2717943746482601831
+    second: SPARKY_70
+  - first:
+      213: -482197972149326852
+    second: SPARKY_71
+  - first:
+      213: 370605231174809881
+    second: SPARKY_72
+  - first:
+      213: -1543926211139768653
+    second: SPARKY_73
+  - first:
+      213: -1738394913806066900
+    second: SPARKY_74
+  - first:
+      213: 168045257351158871
+    second: SPARKY_75
+  - first:
+      213: 399736899418983577
+    second: SPARKY_76
+  - first:
+      213: -7959275919586142285
+    second: SPARKY_77
+  - first:
+      213: 8861758931199642007
+    second: SPARKY_78
+  - first:
+      213: -2577619298975477220
+    second: SPARKY_79
+  - first:
+      213: -1848017444843518513
+    second: SPARKY_80
+  - first:
+      213: 210037912022740560
+    second: SPARKY_81
+  - first:
+      213: 5070606028249945582
+    second: SPARKY_82
+  - first:
+      213: 6702238729931589437
+    second: SPARKY_83
+  - first:
+      213: -6109307361130030402
+    second: SPARKY_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPARKY_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 721
+        width: 197
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908b30df6df513170800000000000000
+      internalID: 8156405777117198345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARKY_7
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 720
+        width: 207
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37b93bab6c810dd0800000000000000
+      internalID: -2521579922288691397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARKY_12
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 718
+        width: 195
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98df1438278f28430800000000000000
+      internalID: 3783859807656738185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARKY_16
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 716
+        width: 194
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609b1fb4b75202c10800000000000000
+      internalID: 2026661043802061062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARKY_28
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 509
+        width: 201
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88cd37a573d5f490800000000000000
+      internalID: -7713026284531627889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARKY_35
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 503
+        width: 202
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f2157d33cb88d50800000000000000
+      internalID: 6739843773201723260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARKY_40
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 503
+        width: 184
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8d36b17c9155d60800000000000000
+      internalID: 7878231466103265457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARKY_45
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 503
+        width: 195
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26373931d02831f50800000000000000
+      internalID: 6850962450835272546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARKY_49
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 294
+        width: 203
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fa3c25a3ef40200800000000000000
+      internalID: 145520614432812926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARKY_51
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 293
+        width: 179
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74999ca6c1c8383c0800000000000000
+      internalID: -4358485960685938361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARKY_66
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 292
+        width: 187
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e4210a839a2d900800000000000000
+      internalID: 707814152119406214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARKY_68
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 296
+        width: 187
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c17dafedeb0d140800000000000000
+      internalID: 4742500272521550857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d5b0bb5c57a27ca4b95d7aa0b0089d85
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SPARKY_0: 8156405777117198345
+      SPARKY_1: 1923785828103039827
+      SPARKY_10: 6223266149313038392
+      SPARKY_11: -7354674690663233060
+      SPARKY_12: 3783859807656738185
+      SPARKY_13: 2956421236502480727
+      SPARKY_14: -3743046282082975138
+      SPARKY_15: 2681558765521059903
+      SPARKY_16: 2026661043802061062
+      SPARKY_17: 4942466379454523998
+      SPARKY_18: -6991094064186738104
+      SPARKY_19: 7522670406832064970
+      SPARKY_2: 8365817998347674881
+      SPARKY_20: -8247193066112337243
+      SPARKY_21: -5067447361678748269
+      SPARKY_22: -2266758420307492956
+      SPARKY_23: 8641300127656525798
+      SPARKY_24: 2365097608052752635
+      SPARKY_25: 6406419457339093302
+      SPARKY_26: -4879862389596438487
+      SPARKY_27: 6480869134821730684
+      SPARKY_28: -7713026284531627889
+      SPARKY_29: -5101903844483323004
+      SPARKY_3: -5556646158613674893
+      SPARKY_30: -57949336920681740
+      SPARKY_31: -8872733723203000325
+      SPARKY_32: -1143757820245188126
+      SPARKY_33: -5571472003156384626
+      SPARKY_34: -4419196830121900418
+      SPARKY_35: 6739843773201723260
+      SPARKY_36: -1144682101016716315
+      SPARKY_37: 4386821625531645312
+      SPARKY_38: 8938145272769934029
+      SPARKY_39: 2145854115555722838
+      SPARKY_4: -8289592774053262617
+      SPARKY_40: 7878231466103265457
+      SPARKY_41: 1768283034047534251
+      SPARKY_42: -4669692086091032421
+      SPARKY_43: -7231332911019246864
+      SPARKY_44: -1409541035562025487
+      SPARKY_45: 6850962450835272546
+      SPARKY_46: -3683658505909714588
+      SPARKY_47: 2039300667265332975
+      SPARKY_48: 891011632085258662
+      SPARKY_49: 145520614432812926
+      SPARKY_5: 932476460484407238
+      SPARKY_50: 6454961850406333999
+      SPARKY_51: -4358485960685938361
+      SPARKY_52: 1080411399542461343
+      SPARKY_53: 11243931777629313
+      SPARKY_54: 5310501352371504348
+      SPARKY_55: -5984204269590563051
+      SPARKY_56: -2735138099991285762
+      SPARKY_57: -5042053992997117931
+      SPARKY_58: -1846132027966352179
+      SPARKY_59: -8535636778706547575
+      SPARKY_6: -6085629752879536661
+      SPARKY_60: -1751885159913325550
+      SPARKY_61: 3940581854754076043
+      SPARKY_62: 3147778681553872372
+      SPARKY_63: 1652420842361862166
+      SPARKY_64: 4109011493716969113
+      SPARKY_65: 3878626848117549844
+      SPARKY_66: 707814152119406214
+      SPARKY_67: -3360396613225891936
+      SPARKY_68: 4742500272521550857
+      SPARKY_69: 1411543690889312697
+      SPARKY_7: -2521579922288691397
+      SPARKY_70: 2717943746482601831
+      SPARKY_71: -482197972149326852
+      SPARKY_72: 370605231174809881
+      SPARKY_73: -1543926211139768653
+      SPARKY_74: -1738394913806066900
+      SPARKY_75: 168045257351158871
+      SPARKY_76: 399736899418983577
+      SPARKY_77: -7959275919586142285
+      SPARKY_78: 8861758931199642007
+      SPARKY_79: -2577619298975477220
+      SPARKY_8: 3355341085448838443
+      SPARKY_80: -1848017444843518513
+      SPARKY_81: 210037912022740560
+      SPARKY_82: 5070606028249945582
+      SPARKY_83: 6702238729931589437
+      SPARKY_84: -6109307361130030402
+      SPARKY_9: 501277879503148587
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
