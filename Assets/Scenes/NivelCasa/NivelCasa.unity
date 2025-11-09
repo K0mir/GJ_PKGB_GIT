@@ -206,93 +206,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &59243847
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 59243849}
-  - component: {fileID: 59243848}
-  m_Layer: 0
-  m_Name: Background
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!212 &59243848
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 59243847}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RayTracingAccelStructBuildFlagsOverride: 0
-  m_RayTracingAccelStructBuildFlags: 1
-  m_SmallMeshCulling: 1
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: -10
-  m_Sprite: {fileID: 5469166596414565422, guid: 82bf21f3fd5cfe841a912f8fd56f8e14, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 10.24, y: 5.85}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!4 &59243849
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 59243847}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.6779, y: -0.58, z: 2.436}
-  m_LocalScale: {x: 1.9886677, y: 1.651125, z: 0.8784149}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &266092329
 GameObject:
   m_ObjectHideFlags: 0
@@ -1148,7 +1061,7 @@ Transform:
   m_GameObject: {fileID: 696983244}
   serializedVersion: 2
   m_LocalRotation: {x: 0.000026211865, y: 0.9998617, z: -0.016632214, w: 0.00000043602165}
-  m_LocalPosition: {x: -3.61, y: -3.78, z: 1.14}
+  m_LocalPosition: {x: -10.57, y: -3.91, z: 1.14}
   m_LocalScale: {x: 0.686609, y: 0.686609, z: 0.686609}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -1446,7 +1359,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1c16e081d50658e498f43853d21681ab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  message: 'Sigue a Franck '
+  message: 'Sigue el olo a Franck '
   displayDuration: 5
   showOnce: 1
   screenX: 0.5
@@ -1827,7 +1740,7 @@ Transform:
   m_GameObject: {fileID: 1135516781}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -9.949342, y: -5.1399117, z: 4.377905}
+  m_LocalPosition: {x: -15.03, y: -5.1399117, z: 4.377905}
   m_LocalScale: {x: 0.686609, y: 0.686609, z: 0.686609}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1925,8 +1838,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cinematicDirector: {fileID: 2025699482}
-  disableNPCControlDuringCinematic: 1
-  npcObject: {fileID: 2049895456}
+  disableNPCControlDuringCinematic: 0
+  npcObject: {fileID: 0}
 --- !u!1 &1278493775
 GameObject:
   m_ObjectHideFlags: 0
@@ -2964,7 +2877,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 12.862353, y: -9.671807}
+  m_Offset: {x: 9.779707, y: -9.671807}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -2974,7 +2887,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 24.221098, y: 1.2582378}
+  m_Size: {x: 30.38639, y: 1.2582378}
   m_EdgeRadius: 0
 --- !u!4 &1527079599
 Transform:
@@ -3318,7 +3231,7 @@ MonoBehaviour:
   portraitImage: {fileID: 1292005928}
   dialoguePanel: {fileID: 898884565}
   showProgressIndicator: 1
-  playCinematicAfterDialogue: 1
+  playCinematicAfterDialogue: 0
   cinematicManager: {fileID: 1210315170}
 --- !u!4 &1775688497
 Transform:
@@ -3622,28 +3535,28 @@ PlayableDirector:
   m_GameObject: {fileID: 2025699481}
   m_Enabled: 1
   serializedVersion: 3
-  m_PlayableAsset: {fileID: 11400000, guid: f2ea4ebc3a46a7e46b3b6171c140e835, type: 2}
-  m_InitialState: 0
+  m_PlayableAsset: {fileID: 11400000, guid: 86101cd1abc702141a7266eebd02e244, type: 2}
+  m_InitialState: 1
   m_WrapMode: 2
   m_DirectorUpdateMode: 1
   m_InitialTime: 0
   m_SceneBindings:
   - key: {fileID: 0}
-    value: {fileID: 2049895457}
+    value: {fileID: 0}
   - key: {fileID: 0}
-    value: {fileID: 2049895457}
+    value: {fileID: 0}
   - key: {fileID: -8465158413080332679, guid: c3392224e0e61c64fa3b81d8fc11e402, type: 2}
-    value: {fileID: 2049895457}
+    value: {fileID: 0}
   - key: {fileID: 0}
-    value: {fileID: 2049895457}
+    value: {fileID: 0}
   - key: {fileID: 4921189548456071276, guid: c3392224e0e61c64fa3b81d8fc11e402, type: 2}
-    value: {fileID: 2049895457}
+    value: {fileID: 0}
   - key: {fileID: 6841245879136584210, guid: c3392224e0e61c64fa3b81d8fc11e402, type: 2}
-    value: {fileID: 2049895457}
-  - key: {fileID: -629704074139700723, guid: f2ea4ebc3a46a7e46b3b6171c140e835, type: 2}
-    value: {fileID: 2049895457}
-  - key: {fileID: -81407748441019476, guid: f2ea4ebc3a46a7e46b3b6171c140e835, type: 2}
-    value: {fileID: 2049895457}
+    value: {fileID: 0}
+  - key: {fileID: 8391833335946313281, guid: 86101cd1abc702141a7266eebd02e244, type: 2}
+    value: {fileID: 696983253}
+  - key: {fileID: 3827611903323387869, guid: 86101cd1abc702141a7266eebd02e244, type: 2}
+    value: {fileID: 696983253}
   m_ExposedReferences:
     m_References: []
 --- !u!4 &2025699483
@@ -3671,7 +3584,6 @@ GameObject:
   m_Component:
   - component: {fileID: 2049895459}
   - component: {fileID: 2049895458}
-  - component: {fileID: 2049895457}
   - component: {fileID: 2049895461}
   - component: {fileID: 2049895460}
   m_Layer: 0
@@ -3681,28 +3593,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!95 &2049895457
-Animator:
-  serializedVersion: 7
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2049895456}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 1d35ee21d3307f54d976fde4006776e2, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_AnimatePhysics: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
 --- !u!212 &2049895458
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3747,7 +3637,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 10
-  m_Sprite: {fileID: 3288537619161204237, guid: 362e29c94e4bed243b55914f66b521db, type: 3}
+  m_Sprite: {fileID: 2994829530230577209, guid: 88e2f944e5709ba459eabb108ff9d69e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3767,7 +3657,7 @@ Transform:
   m_GameObject: {fileID: 2049895456}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 2.96, y: -2.46, z: 0}
+  m_LocalPosition: {x: -1.04, y: -4.15, z: 0}
   m_LocalScale: {x: 1.373218, y: 1.373218, z: 0.99455315}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -3812,7 +3702,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.22, y: 3.55}
+    oldSize: {x: 0.28, y: 0.35}
     newSize: {x: 1.22, y: 3.55}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -3837,32 +3727,6 @@ MonoBehaviour:
     - speakerName: Franck
       speakerPortrait: {fileID: 3348107729479030719, guid: 6a31230e2502a1d479d7b7ec72740bab, type: 3}
       sentence: Hola amiguito, como estas?
-    - speakerName: Sparky
-      speakerPortrait: {fileID: -4819504224602367705, guid: 99af8f903251147488b0430b193ed814, type: 3}
-      sentence: GUAU GUAU!!
-    - speakerName: Franck
-      speakerPortrait: {fileID: 3348107729479030719, guid: 6a31230e2502a1d479d7b7ec72740bab, type: 3}
-      sentence: Quieres juagar a la pelota?
-    - speakerName: Sparky
-      speakerPortrait: {fileID: -4819504224602367705, guid: 99af8f903251147488b0430b193ed814, type: 3}
-      sentence: GUAU!
-    - speakerName: Franck
-      speakerPortrait: {fileID: -7801800957326411696, guid: 953162eb8825739458aebf6902f2cbf6, type: 3}
-      sentence: bien muchacho, ahi va!
-    - speakerName: Sparky
-      speakerPortrait: {fileID: -7979336146661352093, guid: 40f9d0d2d310f834ea64f840f99e59cc, type: 3}
-      sentence: '*Atrapando la pelota*'
-    - speakerName: Franck
-      speakerPortrait: {fileID: 3348107729479030719, guid: 6a31230e2502a1d479d7b7ec72740bab, type: 3}
-      sentence: 'Bien hecho amig...
-
-        *toc toc*'
-    - speakerName: Franck
-      speakerPortrait: {fileID: -6660008474005767293, guid: 97c9cc91eeb0a4f45bc6682ea3a39fa2, type: 3}
-      sentence: tocaron la puerta, ire a ver quien es
-    - speakerName: Franck
-      speakerPortrait: {fileID: 3348107729479030719, guid: 6a31230e2502a1d479d7b7ec72740bab, type: 3}
-      sentence: vamos muchacho!
   interactionText: Presiona "E" para hablar con franck
   interactionIndicator: {fileID: 412668453}
 --- !u!1660057539 &9223372036854775807
@@ -3874,7 +3738,6 @@ SceneRoots:
   - {fileID: 1527079599}
   - {fileID: 409854568}
   - {fileID: 696983246}
-  - {fileID: 59243849}
   - {fileID: 2049895459}
   - {fileID: 1683865793}
   - {fileID: 1383152278}
