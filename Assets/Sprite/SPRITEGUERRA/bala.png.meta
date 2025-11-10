@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: ef3b19c7b714db64393a45ceadd9073e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8092430098967794038
+    second: bala_0
+  - first:
+      213: -5832054629394815809
+    second: bala_1
+  - first:
+      213: 7700503353256045883
+    second: bala_2
+  - first:
+      213: 7943756033569533732
+    second: bala_3
+  - first:
+      213: 4621863507534008223
+    second: bala_4
+  - first:
+      213: 848367444368708083
+    second: bala_5
+  - first:
+      213: 5430180874494306411
+    second: bala_6
+  - first:
+      213: -4836566318817224710
+    second: bala_7
+  - first:
+      213: 4376446643170187784
+    second: bala_8
+  - first:
+      213: -3601512534829455253
+    second: bala_9
+  - first:
+      213: 4882156733555003239
+    second: bala_10
+  - first:
+      213: -5783855756307732610
+    second: bala_11
+  - first:
+      213: 623668711982440776
+    second: bala_12
+  - first:
+      213: -6670329637418634296
+    second: bala_13
+  - first:
+      213: 6484204105508008134
+    second: bala_14
+  - first:
+      213: 2132888372438158130
+    second: bala_15
+  - first:
+      213: 4931084150995384959
+    second: bala_16
+  - first:
+      213: -5970603437143117740
+    second: bala_17
+  - first:
+      213: 6991104887159268160
+    second: bala_18
+  - first:
+      213: -3250538022551876170
+    second: bala_19
+  - first:
+      213: -6735177000660120012
+    second: bala_20
+  - first:
+      213: -3742388529293768167
+    second: bala_21
+  - first:
+      213: 256786671979144217
+    second: bala_22
+  - first:
+      213: 378256294396708672
+    second: bala_23
+  - first:
+      213: -8675272806253197389
+    second: bala_24
+  - first:
+      213: 4130779174086416208
+    second: bala_25
+  - first:
+      213: 617421285328126084
+    second: bala_26
+  - first:
+      213: 6241083719057510615
+    second: bala_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bala_0
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 436
+        width: 343
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67197aaac461e4070800000000000000
+      internalID: 8092430098967794038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bala_1
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 405
+        width: 452
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4ef30d631601fa0800000000000000
+      internalID: -5832054629394815809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bala_2
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 411
+        width: 392
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3de782300fadda60800000000000000
+      internalID: 7700503353256045883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7ebc89c5297c2cf459846554e3240e4a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bala_0: 8092430098967794038
+      bala_1: -5832054629394815809
+      bala_10: 4882156733555003239
+      bala_11: -5783855756307732610
+      bala_12: 623668711982440776
+      bala_13: -6670329637418634296
+      bala_14: 6484204105508008134
+      bala_15: 2132888372438158130
+      bala_16: 4931084150995384959
+      bala_17: -5970603437143117740
+      bala_18: 6991104887159268160
+      bala_19: -3250538022551876170
+      bala_2: 7700503353256045883
+      bala_20: -6735177000660120012
+      bala_21: -3742388529293768167
+      bala_22: 256786671979144217
+      bala_23: 378256294396708672
+      bala_24: -8675272806253197389
+      bala_25: 4130779174086416208
+      bala_26: 617421285328126084
+      bala_27: 6241083719057510615
+      bala_3: 7943756033569533732
+      bala_4: 4621863507534008223
+      bala_5: 848367444368708083
+      bala_6: 5430180874494306411
+      bala_7: -4836566318817224710
+      bala_8: 4376446643170187784
+      bala_9: -3601512534829455253
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

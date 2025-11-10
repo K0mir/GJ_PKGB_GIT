@@ -2,32 +2,70 @@ using UnityEngine;
 
 public class avionmover : MonoBehaviour
 {
-    // La velocidad a la que se moverá el avión
     [Header("Velocidad de Movimiento")]
     public float speed = 2f;
 
-    // Los límites de la pantalla
-    [Header("Límites para Repetir (Loop)")]
-    public float leftBoundary = -20f;  // Punto donde el avión desaparece (ej. -20)
-    public float rightBoundary = 20f; // Punto donde el avión reaparece (ej. 20)
+    [Header("LÃ­mites para Repetir (Loop)")]
+    public float leftBoundary = -20f;  // Punto donde desaparece
+    public float rightBoundary = 20f;  // Punto donde reaparece
 
+    [Header("Debug")]
+    public bool mostrarDebug = true;
+    
     void Update()
     {
-        // 1. Mueve el avión hacia la izquierda (negativo en X)
-        // Usamos Time.deltaTime para que el movimiento sea suave y no dependa de los FPS
+        // Mueve el aviÃ³n hacia la izquierda
         transform.Translate(Vector3.left * speed * Time.deltaTime);
 
-        // 2. Comprueba si el avión se ha salido del límite izquierdo
+        // Comprueba si necesita resetear la posiciÃ³n
         if (transform.position.x < leftBoundary)
         {
-            // 3. Si se salió, lo teletransporta al límite derecho
+            if (mostrarDebug)
+            {
+                Debug.Log($"Reset posiciÃ³n - Actual: {transform.position.x}, LÃ­mite: {leftBoundary}, Nuevo: {rightBoundary}");
+            }
             ResetPosition();
         }
     }
 
     void ResetPosition()
     {
-        // Mantiene la altura (Y) y profundidad (Z) originales, pero cambia la X
-        transform.position = new Vector3(rightBoundary, transform.position.y, transform.position.z);
+        // Teletransporta al lÃ­mite derecho manteniendo Y y Z
+        Vector3 newPosition = new Vector3(rightBoundary, transform.position.y, transform.position.z);
+        transform.position = newPosition;
+        
+        if (mostrarDebug)
+        {
+            Debug.Log($"PosiciÃ³n reseteada a: {newPosition}");
+        }
+    }
+
+    // MÃ©todo para validar en el Inspector
+    void OnValidate()
+    {
+        // Asegura que rightBoundary sea mayor que leftBoundary
+        if (rightBoundary <= leftBoundary)
+        {
+            rightBoundary = leftBoundary + 1f;
+            Debug.LogWarning("rightBoundary debe ser mayor que leftBoundary. Ajustado automÃ¡ticamente.");
+        }
+    }
+
+    // Dibuja gizmos en el editor para visualizar los lÃ­mites
+    void OnDrawGizmosSelected()
+    {
+        if (!mostrarDebug) return;
+
+        Gizmos.color = Color.red;
+        // LÃ­nea para leftBoundary
+        Vector3 leftStart = new Vector3(leftBoundary, transform.position.y - 5f, transform.position.z);
+        Vector3 leftEnd = new Vector3(leftBoundary, transform.position.y + 5f, transform.position.z);
+        Gizmos.DrawLine(leftStart, leftEnd);
+
+        Gizmos.color = Color.green;
+        // LÃ­nea para rightBoundary
+        Vector3 rightStart = new Vector3(rightBoundary, transform.position.y - 5f, transform.position.z);
+        Vector3 rightEnd = new Vector3(rightBoundary, transform.position.y + 5f, transform.position.z);
+        Gizmos.DrawLine(rightStart, rightEnd);
     }
 }

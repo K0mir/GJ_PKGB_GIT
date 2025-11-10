@@ -406,7 +406,7 @@ Transform:
   m_GameObject: {fileID: 74373862}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -4.849478, y: -0.81688404, z: -0.06422777}
+  m_LocalPosition: {x: -4.849478, y: -0.81688404, z: -2.06}
   m_LocalScale: {x: 2.071041, y: 2.071041, z: 2.071041}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -529,7 +529,7 @@ Transform:
   m_GameObject: {fileID: 203194621}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 6.180522, y: -0.9368839, z: -0.06422777}
+  m_LocalPosition: {x: 6.180522, y: -0.9368839, z: -2.06}
   m_LocalScale: {x: 1.7406371, y: 1.7406371, z: 1.7406371}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -616,7 +616,7 @@ Transform:
   m_GameObject: {fileID: 231675526}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -7.7994776, y: -0.8868842, z: -0.06422777}
+  m_LocalPosition: {x: -7.7994776, y: -0.8868842, z: -2.06}
   m_LocalScale: {x: 1.7406371, y: 1.7406371, z: 1.7406371}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -790,7 +790,7 @@ Transform:
   m_GameObject: {fileID: 303471943}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -3.4394777, y: -0.91688395, z: -0.06422777}
+  m_LocalPosition: {x: -3.4394777, y: -0.91688395, z: -2.06}
   m_LocalScale: {x: 1.7406371, y: 1.7406371, z: 1.7406371}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -877,7 +877,7 @@ Transform:
   m_GameObject: {fileID: 373902397}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.11618209, y: 3.013967, z: -0.045420736}
+  m_LocalPosition: {x: -0.11618209, y: 3.013967, z: 0.89}
   m_LocalScale: {x: 2.6973722, y: 1.6604816, z: 1.2341}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1384,7 +1384,7 @@ Transform:
   m_GameObject: {fileID: 488917537}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3.113818, y: 4.283967, z: -0.045420736}
+  m_LocalPosition: {x: 3.113818, y: 4.283967, z: 2.46}
   m_LocalScale: {x: 3.3427, y: 3.3427, z: 3.3427}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1644,7 +1644,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 4
+  m_SortingOrder: 0
   m_Sprite: {fileID: 7520887236294261299, guid: f65b0c62302667b46a0f9f4d8888ddab, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1735,38 +1735,54 @@ MonoBehaviour:
     - speakerName: 'Narrador:'
       speakerPortrait: {fileID: 0}
       sentence: "Y as\xED, sin previo aviso, el mundo de Sparky se detuvo. El juego
-        hab\xEDa terminado. Frank se hab\xEDa ido."
+        hab\xEDa terminado. Frank se hab\xEDa ido.\n\nPresiona \"Q\" para pasar el
+        dialogo"
     - speakerName: 'Narrador:'
       speakerPortrait: {fileID: 0}
-      sentence: "En el apuro, Frank hab\xEDa dejado algo atr\xE1s. Su gorra."
+      sentence: "En el apuro, Frank hab\xEDa dejado algo atr\xE1s. Su gorra.\n\nPresiona
+        \"Q\" para pasar el dialogo"
     - speakerName: 'Narrador:'
       speakerPortrait: {fileID: 0}
       sentence: "El olor era tan fuerte, tan real... pero Frank ya no estaba. Y con
         cada segundo que pasaba, el viento se llevaba un poco m\xE1s de ese rastro,
-        al igual que el cami\xF3n se hab\xEDa llevado a su amigo."
+        al igual que el cami\xF3n se hab\xEDa llevado a su amigo.\n\nPresiona \"Q\"
+        para pasar el dialogo"
     - speakerName: 'Narrador:'
       speakerPortrait: {fileID: 0}
       sentence: "Sparky no entend\xEDa de guerras, ni de coroneles, ni de partidas.
         Solo entend\xEDa el silencio donde antes hab\xEDa risas. Solo sab\xEDa que
-        la persona que m\xE1s quer\xEDa en el mundo se hab\xEDa ido."
+        la persona que m\xE1s quer\xEDa en el mundo se hab\xEDa ido.\n\nPresiona
+        \"Q\" para pasar el dialogo"
     - speakerName: 'Narrador:'
       speakerPortrait: {fileID: 0}
       sentence: "Y en ese momento, el peque\xF1o perro tom\xF3 una decisi\xF3n. No
         pod\xEDa soportar esa ausencia. No esperar\xEDa. Si Frank no pod\xEDa volver
-        a \xE9l, \xE9l ir\xEDa a buscarlo. Ten\xEDa que volver a verlo."
+        a \xE9l, \xE9l ir\xEDa a buscarlo. Ten\xEDa que volver a verlo.\nPresiona
+        \"Q\" para pasar el dialogo\n\nPresiona \"Q\" para pasar el dialogo"
     - speakerName: 'Narrador:'
       speakerPortrait: {fileID: 7520887236294261299, guid: f65b0c62302667b46a0f9f4d8888ddab, type: 3}
       sentence: "Su misi\xF3n era simple: seguir ese olor hasta el fin del mundo
-        si era necesario. El viaje para reencontrarse con su amigo acababa de comenzar."
+        si era necesario. El viaje para reencontrarse con su amigo acababa de comenzar.\n\nPresiona
+        \"Q\" para pasar el dialogo"
     - speakerName: Sparky
       speakerPortrait: {fileID: 2578944788767665196, guid: 2807b791f55496d498e8538bf8a1fb21, type: 3}
-      sentence: GUAUUUUUU...
+      sentence: 'GUAUUUUUU...
+
+
+        Presiona "Q" para pasar el dialogo'
     - speakerName: Sparky
       speakerPortrait: {fileID: 4635152360939770114, guid: 28e52afdb8d1720469427a5a192321fe, type: 3}
-      sentence: '*Oliendo sombrero de Franck*'
+      sentence: '*Oliendo sombrero de Franck*
+
+
+        Presiona "Q" para pasar el
+        dialogo'
     - speakerName: Sparky
       speakerPortrait: {fileID: 6117519625505288357, guid: ee5667494baed4e43b9d8fb7f966ef3c, type: 3}
-      sentence: GUAU!!!
+      sentence: 'GUAU!!!
+
+
+        Presiona "Q" para pasar el dialogo'
   interactionText: Sombrero de Franck, Presiona "E"
   interactionIndicator: {fileID: 1327967380}
 --- !u!1 &579100744
@@ -1795,7 +1811,7 @@ Transform:
   m_GameObject: {fileID: 579100744}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 10.143818, y: 2.9239671, z: -0.045420736}
+  m_LocalPosition: {x: 10.143818, y: 2.9239671, z: 6.07}
   m_LocalScale: {x: 2.6604, y: 2.6604, z: 2.6604}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1966,7 +1982,7 @@ Transform:
   m_GameObject: {fileID: 669290851}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.0594776, y: -0.7568841, z: -0.06422777}
+  m_LocalPosition: {x: -2.0594776, y: -0.7568841, z: -2.06}
   m_LocalScale: {x: 2.071041, y: 2.071041, z: 2.071041}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2053,7 +2069,7 @@ Transform:
   m_GameObject: {fileID: 693386191}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3.5705223, y: -0.856884, z: -0.06422777}
+  m_LocalPosition: {x: 3.5705223, y: -0.856884, z: -2.06}
   m_LocalScale: {x: 2.071041, y: 2.071041, z: 2.071041}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2495,7 +2511,7 @@ Transform:
   m_GameObject: {fileID: 716757007}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 4.8905225, y: -0.836884, z: -0.06422777}
+  m_LocalPosition: {x: 4.8905225, y: -0.836884, z: -2.06}
   m_LocalScale: {x: 2.071041, y: 2.071041, z: 2.071041}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2974,7 +2990,7 @@ Transform:
   m_GameObject: {fileID: 1043251199}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.8405224, y: -0.9868841, z: -0.06422777}
+  m_LocalPosition: {x: 1.8405224, y: -0.9868841, z: -2.06}
   m_LocalScale: {x: 1.7406371, y: 1.7406371, z: 1.7406371}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3171,7 +3187,7 @@ Transform:
   m_GameObject: {fileID: 1199970246}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 11.121323, y: -0.91288424, z: -0.06422777}
+  m_LocalPosition: {x: 11.121323, y: -0.91288424, z: -2.06}
   m_LocalScale: {x: 1.7406371, y: 1.7406371, z: 1.7406371}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3832,8 +3848,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 55
-  m_fontSizeBase: 55
+  m_fontSize: 40.09
+  m_fontSizeBase: 40.09
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -3910,7 +3926,7 @@ Transform:
   m_GameObject: {fileID: 1379560727}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 11.121323, y: -0.91288424, z: -0.06422777}
+  m_LocalPosition: {x: 11.121323, y: -0.91288424, z: -2.06}
   m_LocalScale: {x: 1.7406371, y: 1.7406371, z: 1.7406371}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4076,7 +4092,7 @@ Transform:
   m_GameObject: {fileID: 1513668572}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 7.6205225, y: -0.7768841, z: -0.06422777}
+  m_LocalPosition: {x: 7.6205225, y: -0.7768841, z: -2.06}
   m_LocalScale: {x: 2.071041, y: 2.071041, z: 2.071041}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4243,7 +4259,7 @@ Transform:
   m_GameObject: {fileID: 1537172400}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.4005224, y: -0.81688404, z: -0.06422777}
+  m_LocalPosition: {x: 0.4005224, y: -0.81688404, z: -2.06}
   m_LocalScale: {x: 2.071041, y: 2.071041, z: 2.071041}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4408,7 +4424,7 @@ Transform:
   m_GameObject: {fileID: 1603509397}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.92, y: -2.47, z: 0}
+  m_LocalPosition: {x: 2.92, y: -2.47, z: -0.79}
   m_LocalScale: {x: 1.4608, y: 1.4608, z: 1.4608}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4440,7 +4456,7 @@ Transform:
   m_GameObject: {fileID: 1682464388}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -6.2094774, y: -0.81688404, z: -0.06422777}
+  m_LocalPosition: {x: -6.2094774, y: -0.81688404, z: -2.06}
   m_LocalScale: {x: 2.071041, y: 2.071041, z: 2.071041}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4684,7 +4700,7 @@ Transform:
   m_GameObject: {fileID: 1696720187}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.2938178, y: 2.1375, z: -0.045420736}
+  m_LocalPosition: {x: 2.2938178, y: 2.1375, z: 1.75}
   m_LocalScale: {x: 1.3746333, y: 1.36409, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5043,7 +5059,7 @@ Transform:
   m_GameObject: {fileID: 2048577996}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 9.550523, y: -0.7768841, z: -0.06422777}
+  m_LocalPosition: {x: 9.550523, y: -0.7768841, z: -2.06}
   m_LocalScale: {x: 2.071041, y: 2.071041, z: 2.071041}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5130,7 +5146,7 @@ Transform:
   m_GameObject: {fileID: 2105917178}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.7794776, y: -0.836884, z: -0.06422777}
+  m_LocalPosition: {x: -0.7794776, y: -0.836884, z: -2.06}
   m_LocalScale: {x: 2.071041, y: 2.071041, z: 2.071041}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5272,7 +5288,7 @@ Transform:
   m_GameObject: {fileID: 2106927616}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.0209, y: -5.1606884, z: 0}
+  m_LocalPosition: {x: 0.0209, y: -5.1606884, z: 1.13}
   m_LocalScale: {x: 1.2389, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

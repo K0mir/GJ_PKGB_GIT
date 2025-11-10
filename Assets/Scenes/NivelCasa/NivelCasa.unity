@@ -3107,7 +3107,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -3132,8 +3132,8 @@ Transform:
   m_GameObject: {fileID: 1135516781}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -9.949342, y: -5.1399117, z: 4.377905}
-  m_LocalScale: {x: 0.686609, y: 0.686609, z: 0.686609}
+  m_LocalPosition: {x: -11.75, y: -5.1399117, z: 4.377905}
+  m_LocalScale: {x: 1.560525, y: 22.549585, z: 1.560525}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1044445208}
@@ -3746,10 +3746,10 @@ RectTransform:
   - {fileID: 1343675569}
   m_Father: {fileID: 412668457}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 1}
-  m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 49, y: -99}
-  m_SizeDelta: {x: 568.8591, y: 91.2481}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 92, y: -173}
+  m_SizeDelta: {x: -535.1409, y: 91.2481}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1327967382
 MonoBehaviour:
@@ -6302,7 +6302,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.041309357, y: 0}
+  m_Offset: {x: 3.1856318, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -6312,7 +6312,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 3.5975938, y: 3.55}
+  m_Size: {x: 9.886238, y: 3.55}
   m_EdgeRadius: 0
 --- !u!114 &2049895461
 MonoBehaviour:
@@ -6330,33 +6330,65 @@ MonoBehaviour:
     dialogueLines:
     - speakerName: Franck
       speakerPortrait: {fileID: 3348107729479030719, guid: 6a31230e2502a1d479d7b7ec72740bab, type: 3}
-      sentence: Hola amiguito, como estas?
+      sentence: 'Hola amiguito, como estas?
+
+
+        Presiona "Q" para pasar el
+        dialogo'
     - speakerName: Sparky
       speakerPortrait: {fileID: -4819504224602367705, guid: 99af8f903251147488b0430b193ed814, type: 3}
-      sentence: GUAU GUAU!!
+      sentence: 'GUAU GUAU!!
+
+
+        Presiona "Q" para pasar el dialogo'
     - speakerName: Franck
       speakerPortrait: {fileID: 3348107729479030719, guid: 6a31230e2502a1d479d7b7ec72740bab, type: 3}
-      sentence: Quieres juagar a la pelota?
+      sentence: 'Quieres juagar a la pelota?
+
+
+        Presiona "Q" para pasar el
+        dialogo'
     - speakerName: Sparky
       speakerPortrait: {fileID: -4819504224602367705, guid: 99af8f903251147488b0430b193ed814, type: 3}
-      sentence: GUAU!
+      sentence: 'GUAU
+
+
+        Presiona "Q" para pasar el dialogo'
     - speakerName: Franck
       speakerPortrait: {fileID: -7801800957326411696, guid: 953162eb8825739458aebf6902f2cbf6, type: 3}
-      sentence: bien muchacho, ahi va!
+      sentence: 'bien muchacho, ahi va!
+
+
+        Presiona "Q" para pasar el dialogo'
     - speakerName: Sparky
       speakerPortrait: {fileID: -7979336146661352093, guid: 40f9d0d2d310f834ea64f840f99e59cc, type: 3}
-      sentence: '*Atrapando la pelota*'
+      sentence: '*Atrapando la pelota*
+
+
+        Presiona "Q" para pasar el dialogo'
     - speakerName: Franck
       speakerPortrait: {fileID: 3348107729479030719, guid: 6a31230e2502a1d479d7b7ec72740bab, type: 3}
       sentence: 'Bien hecho amig...
 
-        *toc toc*'
+        *toc toc*
+
+
+        Presiona "Q" para
+        pasar el dialogo'
     - speakerName: Franck
       speakerPortrait: {fileID: -6660008474005767293, guid: 97c9cc91eeb0a4f45bc6682ea3a39fa2, type: 3}
-      sentence: tocaron la puerta, ire a ver quien es
+      sentence: 'tocaron la puerta, quien sera?
+
+
+        Presiona "Q" para pasar
+        el dialogo'
     - speakerName: Franck
       speakerPortrait: {fileID: 3348107729479030719, guid: 6a31230e2502a1d479d7b7ec72740bab, type: 3}
-      sentence: vamos muchacho!
+      sentence: 'vamos muchacho! veamos quien es
+
+
+        Presiona "Q" para pasar
+        el dialogo'
   interactionText: Presiona "E" para hablar con franck
   interactionIndicator: {fileID: 412668453}
 --- !u!1 &2122742931
