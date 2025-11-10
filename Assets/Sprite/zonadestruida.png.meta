@@ -1,0 +1,2106 @@
+fileFormatVersion: 2
+guid: f9a432190dbf87b4e91df437976136f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5732354435638602485
+    second: zonadestruida_0
+  - first:
+      213: -533696326797061970
+    second: zonadestruida_1
+  - first:
+      213: -1426516131651552868
+    second: zonadestruida_2
+  - first:
+      213: -7644679962788729019
+    second: zonadestruida_3
+  - first:
+      213: -6034649826392201446
+    second: zonadestruida_4
+  - first:
+      213: -8972089566587174439
+    second: zonadestruida_5
+  - first:
+      213: -8888668464537851580
+    second: zonadestruida_6
+  - first:
+      213: -4142396558525727401
+    second: zonadestruida_7
+  - first:
+      213: 7624827606602627352
+    second: zonadestruida_8
+  - first:
+      213: 3070891432879912859
+    second: zonadestruida_9
+  - first:
+      213: 4465979633210095470
+    second: zonadestruida_10
+  - first:
+      213: -7896689068862524541
+    second: zonadestruida_11
+  - first:
+      213: 7807503092277173468
+    second: zonadestruida_12
+  - first:
+      213: 4089014212872570002
+    second: zonadestruida_13
+  - first:
+      213: 8261174120228008176
+    second: zonadestruida_14
+  - first:
+      213: -3115001685753512362
+    second: zonadestruida_15
+  - first:
+      213: 6488895501240761197
+    second: zonadestruida_16
+  - first:
+      213: 8000040295637878684
+    second: zonadestruida_17
+  - first:
+      213: 4483602744119245158
+    second: zonadestruida_18
+  - first:
+      213: 4103443496135732100
+    second: zonadestruida_19
+  - first:
+      213: -5439179961433493883
+    second: zonadestruida_20
+  - first:
+      213: -4610857452114244264
+    second: zonadestruida_21
+  - first:
+      213: 4331058842736408131
+    second: zonadestruida_22
+  - first:
+      213: -282714459720366776
+    second: zonadestruida_23
+  - first:
+      213: 1057176318060893424
+    second: zonadestruida_24
+  - first:
+      213: 7320414964074992631
+    second: zonadestruida_25
+  - first:
+      213: -2872001062475369359
+    second: zonadestruida_26
+  - first:
+      213: 6186916666599739435
+    second: zonadestruida_27
+  - first:
+      213: 741867949873695714
+    second: zonadestruida_28
+  - first:
+      213: -4985372526447234375
+    second: zonadestruida_29
+  - first:
+      213: 4325692142020605467
+    second: zonadestruida_30
+  - first:
+      213: -810713007239542514
+    second: zonadestruida_31
+  - first:
+      213: 5701899416933261766
+    second: zonadestruida_32
+  - first:
+      213: -4734042731287568656
+    second: zonadestruida_33
+  - first:
+      213: 3239739699276440396
+    second: zonadestruida_34
+  - first:
+      213: 123128305820023365
+    second: zonadestruida_35
+  - first:
+      213: -6652564108416993307
+    second: zonadestruida_36
+  - first:
+      213: 3018425706947931388
+    second: zonadestruida_37
+  - first:
+      213: -2260238221796831094
+    second: zonadestruida_38
+  - first:
+      213: 6661902967540082823
+    second: zonadestruida_39
+  - first:
+      213: -4799834272953547116
+    second: zonadestruida_40
+  - first:
+      213: 822033941773397683
+    second: zonadestruida_41
+  - first:
+      213: -3252409044740475399
+    second: zonadestruida_42
+  - first:
+      213: 724406698715261683
+    second: zonadestruida_43
+  - first:
+      213: -243430662450487568
+    second: zonadestruida_44
+  - first:
+      213: 2431607619706000325
+    second: zonadestruida_45
+  - first:
+      213: -9198808264119688399
+    second: zonadestruida_46
+  - first:
+      213: 4041810382818753067
+    second: zonadestruida_47
+  - first:
+      213: -8927785292215604738
+    second: zonadestruida_48
+  - first:
+      213: 8077357528115458481
+    second: zonadestruida_49
+  - first:
+      213: -7743853015202787739
+    second: zonadestruida_50
+  - first:
+      213: -8979695852603716086
+    second: zonadestruida_51
+  - first:
+      213: -1779109854748712895
+    second: zonadestruida_52
+  - first:
+      213: 2737861216548992944
+    second: zonadestruida_53
+  - first:
+      213: -8917719518470824427
+    second: zonadestruida_54
+  - first:
+      213: 7730437025561506776
+    second: zonadestruida_55
+  - first:
+      213: -3600472908511322178
+    second: zonadestruida_56
+  - first:
+      213: -7631755739708942030
+    second: zonadestruida_57
+  - first:
+      213: -7080205686735565992
+    second: zonadestruida_58
+  - first:
+      213: -698891212075300334
+    second: zonadestruida_59
+  - first:
+      213: 367697922472358653
+    second: zonadestruida_60
+  - first:
+      213: -7746362139437966627
+    second: zonadestruida_61
+  - first:
+      213: 4995560880367300688
+    second: zonadestruida_62
+  - first:
+      213: -687475544588008154
+    second: zonadestruida_63
+  - first:
+      213: -2096004987708413847
+    second: zonadestruida_64
+  - first:
+      213: -2300525190311774204
+    second: zonadestruida_65
+  - first:
+      213: -977090335517512923
+    second: zonadestruida_66
+  - first:
+      213: 5217708959488317070
+    second: zonadestruida_67
+  - first:
+      213: 2303730850174999388
+    second: zonadestruida_68
+  - first:
+      213: 4480466081930237176
+    second: zonadestruida_69
+  - first:
+      213: -242472246727201321
+    second: zonadestruida_70
+  - first:
+      213: 1763512072589939189
+    second: zonadestruida_71
+  - first:
+      213: 3713935017049518212
+    second: zonadestruida_72
+  - first:
+      213: -4625247911641158809
+    second: zonadestruida_73
+  - first:
+      213: -411943215171014638
+    second: zonadestruida_74
+  - first:
+      213: -8492595193145376935
+    second: zonadestruida_75
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zonadestruida_0
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 669
+        width: 989
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05502913069270b0800000000000000
+      internalID: -5732354435638602485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_1
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 618
+        width: 333
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea09457b40ee798f0800000000000000
+      internalID: -533696326797061970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_2
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 613
+        width: 286
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c997b82e22ff33ce0800000000000000
+      internalID: -1426516131651552868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_3
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 618
+        width: 343
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f6e6cb314a8e590800000000000000
+      internalID: -7644679962788729019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_4
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 539
+        width: 510
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a172502b4fd904ca0800000000000000
+      internalID: -6034649826392201446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_5
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 540
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1459a431cbc7380800000000000000
+      internalID: -8972089566587174439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_6
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 540
+        width: 395
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449210d202b15a480800000000000000
+      internalID: -8888668464537851580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_7
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 454
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75df54207404386c0800000000000000
+      internalID: -4142396558525727401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_8
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 462
+        width: 103
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81934256f44d0d960800000000000000
+      internalID: 7624827606602627352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_9
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 464
+        width: 137
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97f898ec7ffd9a20800000000000000
+      internalID: 3070891432879912859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_10
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 464
+        width: 211
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67fd9b80d85afd30800000000000000
+      internalID: 4465979633210095470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_11
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 464
+        width: 172
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3833dbc5123596290800000000000000
+      internalID: -7896689068862524541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_12
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 368
+        width: 262
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcd1fd42b2d95c60800000000000000
+      internalID: 7807503092277173468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_13
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 412
+        width: 92
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2940bc713c81fb830800000000000000
+      internalID: 4089014212872570002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_14
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 406
+        width: 76
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f037dfb71695a270800000000000000
+      internalID: 8261174120228008176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_15
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 408
+        width: 76
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e3be5887a45c4d0800000000000000
+      internalID: -3115001685753512362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_16
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 391
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bf51824103d0a50800000000000000
+      internalID: 6488895501240761197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_17
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 272
+        width: 275
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c978e4a434ad50f60800000000000000
+      internalID: 8000040295637878684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_18
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 347
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669b13dc0f4f83e30800000000000000
+      internalID: 4483602744119245158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_19
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 347
+        width: 65
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bae076e1c52f830800000000000000
+      internalID: 4103443496135732100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_20
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 353
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e6551a4a62484b0800000000000000
+      internalID: -5439179961433493883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_21
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 341
+        width: 63
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d84c0a391f200c0800000000000000
+      internalID: -4610857452114244264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_22
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 336
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3463e9e02130b1c30800000000000000
+      internalID: 4331058842736408131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_23
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 334
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845408f52b8931cf0800000000000000
+      internalID: -282714459720366776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_24
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 336
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f499f69248dbae00800000000000000
+      internalID: 1057176318060893424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_25
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 298
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3d426ef96579560800000000000000
+      internalID: 7320414964074992631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_26
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 192
+        width: 204
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1747c9c004a9428d0800000000000000
+      internalID: -2872001062475369359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_27
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 317
+        width: 66
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b201f97bde75cd550800000000000000
+      internalID: 6186916666599739435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_28
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 299
+        width: 69
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb087648f4ab4a00800000000000000
+      internalID: 741867949873695714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_29
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 289
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2fe10d91660dab0800000000000000
+      internalID: -4985372526447234375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_30
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 299
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1636dca512f70c30800000000000000
+      internalID: 4325692142020605467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_31
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 233
+        width: 208
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09c2b4b0d4cfb4f0800000000000000
+      internalID: -810713007239542514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_32
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 284
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1605b4f47312f40800000000000000
+      internalID: 5701899416933261766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_33
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 197
+        width: 193
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe951ac73d4d4eb0800000000000000
+      internalID: -4734042731287568656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_34
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 243
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c436a14771ed5fc20800000000000000
+      internalID: 3239739699276440396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_35
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 242
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ab232ba8075b100800000000000000
+      internalID: 123128305820023365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_36
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 246
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7ba40b0385da3a0800000000000000
+      internalID: -6652564108416993307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_37
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 242
+        width: 133
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfce98b203a93e920800000000000000
+      internalID: 3018425706947931388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_38
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 175
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a801a02005502a0e0800000000000000
+      internalID: -2260238221796831094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_39
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 196
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788e854e375d37c50800000000000000
+      internalID: 6661902967540082823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_40
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 183
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496cbdbc820936db0800000000000000
+      internalID: -4799834272953547116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_41
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 181
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bea7b4c383786b00800000000000000
+      internalID: 822033941773397683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_42
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 190
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5f9ffa43f1dd2d0800000000000000
+      internalID: -3252409044740475399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_43
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 176
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa26dded0c9d0a00800000000000000
+      internalID: 724406698715261683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_44
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 181
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe533d2a192f9cf0800000000000000
+      internalID: -243430662450487568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_45
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 176
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c395b53f3eceb120800000000000000
+      internalID: 2431607619706000325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_46
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 168
+        width: 89
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133e7340f94475080800000000000000
+      internalID: -9198808264119688399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_47
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 88
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ab565f025671830800000000000000
+      internalID: 4041810382818753067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_48
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 150
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9288204922a1480800000000000000
+      internalID: -8927785292215604738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_49
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 143
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1362b40e9881070800000000000000
+      internalID: 8077357528115458481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_50
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 180
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e000c16be488490800000000000000
+      internalID: -7743853015202787739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_51
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 148
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ec182d236b16380800000000000000
+      internalID: -8979695852603716086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_52
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 141
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1406e4363055f47e0800000000000000
+      internalID: -1779109854748712895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_53
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 139
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7b8b84546def520800000000000000
+      internalID: 2737861216548992944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_54
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 157
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e9af69855ed3480800000000000000
+      internalID: -8917719518470824427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_55
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 72
+        width: 220
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3fe136487084b60800000000000000
+      internalID: 7730437025561506776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_56
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 103
+        width: 128
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfd3c047fc880ec0800000000000000
+      internalID: -3600472908511322178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_57
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 107
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239991ae69e861690800000000000000
+      internalID: -7631755739708942030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_58
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 78
+        width: 87
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b0d61c07e0ebd90800000000000000
+      internalID: -7080205686735565992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_59
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 78
+        width: 85
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a0c9f352a0d46f0800000000000000
+      internalID: -698891212075300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_60
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 91
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df23d95ff435a1500800000000000000
+      internalID: 367697922472358653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_61
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 108
+        width: 110
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddad3491da46f7490800000000000000
+      internalID: -7746362139437966627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_62
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 20
+        width: 251
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0507120372cc35540800000000000000
+      internalID: 4995560880367300688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_63
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 21
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625401572a89576f0800000000000000
+      internalID: -687475544588008154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_64
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 21
+        width: 85
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968613c919e79e2e0800000000000000
+      internalID: -2096004987708413847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_65
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 24
+        width: 71
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408f0a23784e210e0800000000000000
+      internalID: -2300525190311774204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_66
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 21
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52be206448da072f0800000000000000
+      internalID: -977090335517512923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_67
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 24
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e869caf67a6096840800000000000000
+      internalID: 5217708959488317070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_68
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 23
+        width: 90
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b1ac6a00f78ff10800000000000000
+      internalID: 2303730850174999388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_69
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 45
+        width: 146
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f453a9b920dd2e30800000000000000
+      internalID: 4480466081930237176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_70
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 21
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd2fe9b6c092acf0800000000000000
+      internalID: -242472246727201321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_71
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 23
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f116d3f2e0497810800000000000000
+      internalID: 1763512072589939189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_72
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 24
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480fe12883c8a8330800000000000000
+      internalID: 3713935017049518212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_73
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 20
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76be28ca781dfcfb0800000000000000
+      internalID: -4625247911641158809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_74
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 20
+        width: 75
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210791014db784af0800000000000000
+      internalID: -411943215171014638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zonadestruida_75
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 19
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f3163eaad342a80800000000000000
+      internalID: -8492595193145376935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      zonadestruida_0: -5732354435638602485
+      zonadestruida_1: -533696326797061970
+      zonadestruida_10: 4465979633210095470
+      zonadestruida_11: -7896689068862524541
+      zonadestruida_12: 7807503092277173468
+      zonadestruida_13: 4089014212872570002
+      zonadestruida_14: 8261174120228008176
+      zonadestruida_15: -3115001685753512362
+      zonadestruida_16: 6488895501240761197
+      zonadestruida_17: 8000040295637878684
+      zonadestruida_18: 4483602744119245158
+      zonadestruida_19: 4103443496135732100
+      zonadestruida_2: -1426516131651552868
+      zonadestruida_20: -5439179961433493883
+      zonadestruida_21: -4610857452114244264
+      zonadestruida_22: 4331058842736408131
+      zonadestruida_23: -282714459720366776
+      zonadestruida_24: 1057176318060893424
+      zonadestruida_25: 7320414964074992631
+      zonadestruida_26: -2872001062475369359
+      zonadestruida_27: 6186916666599739435
+      zonadestruida_28: 741867949873695714
+      zonadestruida_29: -4985372526447234375
+      zonadestruida_3: -7644679962788729019
+      zonadestruida_30: 4325692142020605467
+      zonadestruida_31: -810713007239542514
+      zonadestruida_32: 5701899416933261766
+      zonadestruida_33: -4734042731287568656
+      zonadestruida_34: 3239739699276440396
+      zonadestruida_35: 123128305820023365
+      zonadestruida_36: -6652564108416993307
+      zonadestruida_37: 3018425706947931388
+      zonadestruida_38: -2260238221796831094
+      zonadestruida_39: 6661902967540082823
+      zonadestruida_4: -6034649826392201446
+      zonadestruida_40: -4799834272953547116
+      zonadestruida_41: 822033941773397683
+      zonadestruida_42: -3252409044740475399
+      zonadestruida_43: 724406698715261683
+      zonadestruida_44: -243430662450487568
+      zonadestruida_45: 2431607619706000325
+      zonadestruida_46: -9198808264119688399
+      zonadestruida_47: 4041810382818753067
+      zonadestruida_48: -8927785292215604738
+      zonadestruida_49: 8077357528115458481
+      zonadestruida_5: -8972089566587174439
+      zonadestruida_50: -7743853015202787739
+      zonadestruida_51: -8979695852603716086
+      zonadestruida_52: -1779109854748712895
+      zonadestruida_53: 2737861216548992944
+      zonadestruida_54: -8917719518470824427
+      zonadestruida_55: 7730437025561506776
+      zonadestruida_56: -3600472908511322178
+      zonadestruida_57: -7631755739708942030
+      zonadestruida_58: -7080205686735565992
+      zonadestruida_59: -698891212075300334
+      zonadestruida_6: -8888668464537851580
+      zonadestruida_60: 367697922472358653
+      zonadestruida_61: -7746362139437966627
+      zonadestruida_62: 4995560880367300688
+      zonadestruida_63: -687475544588008154
+      zonadestruida_64: -2096004987708413847
+      zonadestruida_65: -2300525190311774204
+      zonadestruida_66: -977090335517512923
+      zonadestruida_67: 5217708959488317070
+      zonadestruida_68: 2303730850174999388
+      zonadestruida_69: 4480466081930237176
+      zonadestruida_7: -4142396558525727401
+      zonadestruida_70: -242472246727201321
+      zonadestruida_71: 1763512072589939189
+      zonadestruida_72: 3713935017049518212
+      zonadestruida_73: -4625247911641158809
+      zonadestruida_74: -411943215171014638
+      zonadestruida_75: -8492595193145376935
+      zonadestruida_8: 7624827606602627352
+      zonadestruida_9: 3070891432879912859
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

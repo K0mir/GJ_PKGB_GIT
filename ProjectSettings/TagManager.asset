@@ -8,6 +8,7 @@ TagManager:
   - Ground
   - Car
   - NPC
+  - GameOverUI
   layers:
   - Default
   - TransparentFX

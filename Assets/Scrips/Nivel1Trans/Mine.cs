@@ -3,11 +3,16 @@ using UnityEngine;
 public class Mine : MonoBehaviour
 {
     public Animator animator;
-    public float delayBeforeGameOver = 0.5f; // Cambiado de 1.2f a 0.5f
     public AudioSource explosionSound;
-    public GameOverCI gameOverManager;
-
+    public float gameOverDelay = 0.3f;
+    
+    private GameOverCI gameOverManager;
     private bool hasExploded = false;
+
+    void Start()
+    {
+        gameOverManager = GameOverCI.instance;
+    }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -20,19 +25,25 @@ public class Mine : MonoBehaviour
 
     void Explode()
     {
-        animator.SetTrigger("Explode");
+        // Activar animación
+        if (animator != null)
+            animator.SetTrigger("Explode");
 
+        // Reproducir sonido de explosión
         if (explosionSound != null)
             explosionSound.Play();
+        else
+            Debug.LogWarning("AudioSource no asignado en la mina");
 
-        Invoke("TriggerGameOver", delayBeforeGameOver);
+        // Game Over después del delay
+        Invoke("TriggerGameOver", gameOverDelay);
     }
 
     void TriggerGameOver()
     {
-        if (gameOverManager != null)
+        if (GameOverCI.instance != null)
         {
-            gameOverManager.GameOver();
+            GameOverCI.instance.GameOver();
         }
     }
 
