@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: 21688a7dc1ed8214aa97bdd56c276bce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9059460723265850610
+    second: "caba\xF1a_0"
+  - first:
+      213: -538403262241449113
+    second: "caba\xF1a_1"
+  - first:
+      213: 1968129350260318441
+    second: "caba\xF1a_2"
+  - first:
+      213: -3798308221836566826
+    second: "caba\xF1a_3"
+  - first:
+      213: -7061848154863736275
+    second: "caba\xF1a_4"
+  - first:
+      213: -1892121563255002760
+    second: "caba\xF1a_5"
+  - first:
+      213: 5799290530199542847
+    second: "caba\xF1a_6"
+  - first:
+      213: 2880373394800440952
+    second: "caba\xF1a_7"
+  - first:
+      213: 770540692542384084
+    second: "caba\xF1a_8"
+  - first:
+      213: 4371458159516053396
+    second: "caba\xF1a_9"
+  - first:
+      213: -1525670412223281081
+    second: "caba\xF1a_10"
+  - first:
+      213: 2933398580275438215
+    second: "caba\xF1a_11"
+  - first:
+      213: -5394620480210887738
+    second: "caba\xF1a_12"
+  - first:
+      213: 7342955226590916572
+    second: "caba\xF1a_13"
+  - first:
+      213: -28107851998194174
+    second: "caba\xF1a_14"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "caba\xF1a_0"
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 328
+        width: 215
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc4dda578ba9bd70800000000000000
+      internalID: 9059460723265850610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "caba\xF1a_1"
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 328
+        width: 215
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bdf28e5153788f0800000000000000
+      internalID: -538403262241449113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "caba\xF1a_2"
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 328
+        width: 215
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0694a6733305b10800000000000000
+      internalID: 1968129350260318441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "caba\xF1a_3"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 329
+        width: 215
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de5cf9ebc2b94bc0800000000000000
+      internalID: -3798308221836566826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "caba\xF1a_4"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 329
+        width: 215
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a6997b4864ffd90800000000000000
+      internalID: -7061848154863736275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 16b240f20311b8c44b23bf7b75223587
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "caba\xF1a_0": 9059460723265850610
+      "caba\xF1a_1": -538403262241449113
+      "caba\xF1a_10": -1525670412223281081
+      "caba\xF1a_11": 2933398580275438215
+      "caba\xF1a_12": -5394620480210887738
+      "caba\xF1a_13": 7342955226590916572
+      "caba\xF1a_14": -28107851998194174
+      "caba\xF1a_2": 1968129350260318441
+      "caba\xF1a_3": -3798308221836566826
+      "caba\xF1a_4": -7061848154863736275
+      "caba\xF1a_5": -1892121563255002760
+      "caba\xF1a_6": 5799290530199542847
+      "caba\xF1a_7": 2880373394800440952
+      "caba\xF1a_8": 770540692542384084
+      "caba\xF1a_9": 4371458159516053396
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
